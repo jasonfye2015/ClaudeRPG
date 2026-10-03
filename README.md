@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v10.0.html](ClaudeRPG%20v10.0.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v10.1.html](ClaudeRPG%20v10.1.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -94,7 +94,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 <details open>
 <summary><b>⚔️ Adventure</b></summary>
 
-- Seven realms as you go deeper: the Dungeon, Caves, Crypt, Inferno, Flooded Temple, Clockwork Forge and Crystal Caverns
+- Five worlds of ten depths each, every one with its own monsters, hazards, guardians and music: the Undercroft, the Frozen Caverns, the Sunken Ruins, the Clockwork City and the Burning Heart, plus the hidden Crystal Grotto. A chapter card greets you in each
 - Bosses, named champions, elite Keyholders, and multi-phase giants like the Kraken and the Clockwork Titan
 - Secret rooms behind cracked walls, lever and mirror puzzles, traps to disarm, padlocked chests to pick, treasure maps to dig up
 - Perilous red stairs: a harder floor with better rewards
@@ -245,7 +245,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v10.0.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v10.1.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
