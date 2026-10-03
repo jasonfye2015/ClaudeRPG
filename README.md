@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v8.6.html](ClaudeRPG%20v8.6.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v8.7.html](ClaudeRPG%20v8.7.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -153,6 +153,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 ## 💡 Good to know
 
 - **Your saves live in your browser.** There are 4 save slots, and your family's farm, town and achievements are shared between them. Clearing your browser's site data (or using a private window) erases them, and each browser keeps its own saves.
+- **💾 Make backups!** On the save slot screen, **💾 Back up** downloads a backup file of everything (or a single hero), and **📥 Restore** brings it back, even on another computer or browser.
 - **Keep using the same file location.** Some browsers tie saves to where the file is opened from, so it's best to keep the game file in one place.
 - **Stuck?** Press **❓ HELP!** in the game for the illustrated handbook, or open the **🧭 Path** checklist to see what to do next.
 - **Release notes:** click the version stamp in the corner of the title screen to see what changed in every version.
@@ -161,7 +162,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v8.6.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v8.7.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
