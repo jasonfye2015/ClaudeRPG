@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="#-play-in-30-seconds">▶️ How to play</a> ·
+  <a href="#-play-in-30-seconds">🚀 How to play</a> ·
   <a href="#-screenshots">📸 Screenshots</a> ·
   <a href="#-controls">🎮 Controls</a> ·
   <a href="#-whats-in-the-game">✨ Features</a> ·
@@ -20,7 +20,7 @@
 
 ---
 
-## ▶️ Play in 30 seconds
+## 🚀 Play in 30 seconds
 
 1. Click **[ClaudeRPG v8.2.html](ClaudeRPG%20v8.2.html)** (the newest version), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
