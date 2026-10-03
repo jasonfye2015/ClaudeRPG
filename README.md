@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v8.7.html](ClaudeRPG%20v8.7.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v9.0.html](ClaudeRPG%20v9.0.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -47,7 +47,7 @@ ClaudeRPG is a **top-down action roguelike** with a warm, homey side.
 |:---:|:---:|
 | <img src="screenshots/town-farm.jpg" alt="The hero at the family farm in Emberhold" width="400"><br>**Emberhold at night:** the family farm and the livestock pen | <img src="screenshots/boss.jpg" alt="A boss fight against Arachna, the Spider Queen" width="400"><br>**Boss fight:** Arachna, the Spider Queen, in the Inferno |
 | <img src="screenshots/classes.jpg" alt="The Choose Your Hero screen" width="400"><br>**Six classes** to choose from (some unlock as you play) | <img src="screenshots/skills.jpg" alt="The four-tier Paladin skill tree" width="400"><br>**Skill trees:** four tiers, three choices each |
-| <img src="screenshots/first-person.jpg" alt="The dungeon seen in first person" width="400"><br>**Three views:** top-down, first person, or retro ASCII | |
+| <img src="screenshots/first-person.jpg" alt="The dungeon seen in first person" width="400"><br>**Three views:** top-down, first person, or retro ASCII | <img src="screenshots/pet-den.jpg" alt="The Pet Den: a Fenrir with its stance, orders, gear and pet bag" width="400"><br>**The Pet Den:** stances, orders, pet gear, treats and a skill tree for every pet |
 
 ---
 
@@ -80,6 +80,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 | Drink a potion | **Q** |
 | Talk, open, fish, take the stairs | **E** |
 | Ride your mount | **H** |
+| Pet stance · pet ability | **N** · **L** |
 | Skills · Stats · Map · Pause | **K** · **J** · **Tab** · **Esc** |
 
 **Inventory:** click to equip · shift+click to sell · ctrl+click to lock · drag to rearrange.
@@ -124,8 +125,20 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 
 - A real-time farm you can expand plot by plot, with crops, fruit trees, watering, compost, crows and weather
 - A livestock pen: cows, pigs and chickens that grow up, breed, and give milk, eggs and truffles
-- Pets and mounts with collars, saddles, feeding bonuses and rare finds; fight on horseback
+- Mounts with saddles, feeding bonuses and rare finds; fight on horseback
 - Fishing, cooking, a cookbook, and brewing at the alchemist's cauldron
+
+</details>
+
+<details>
+<summary><b>🐾 Pets</b></summary>
+
+- Ten kinds of pet: Wolf, Wisp and Dragonling from the beastmaster, plus an Owl, Serpent, Golem, Shadow Cat and Turtle that hatch from rare eggs, and two very rare ones guarded by bosses
+- Pets have health: monsters fight back, and a beaten pet faints for a while (it never dies)
+- Five stances (Defensive, Aggressive, Assist, Passive, Hold position) and orders for fetching loot, using abilities, retreating and picking targets
+- A skill tree for every kind (three branches, four tiers) and two final forms at level 20, each with its own special ability
+- Pet gear: collar, barding (armor you can see on your pet), fangs with elements, and a charm, with sockets and legendary powers
+- Treats to cook, bond hearts, personalities, toys for the kennel, and pets that pass down the family when a hero falls
 
 </details>
 
@@ -162,7 +175,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v8.7.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v9.0.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
