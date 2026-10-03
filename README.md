@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v9.4.html](ClaudeRPG%20v9.4.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v9.5.html](ClaudeRPG%20v9.5.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -178,6 +178,18 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 </details>
 
 <details>
+<summary><b>🏡 Hearth & home</b></summary>
+
+- Your family's house opens in a big window that shows each room. Grow it from a Cottage to a House to a Manor with six rooms, and arrange everything in Decorate mode
+- 42 pieces of furniture, many with uses: beds for Well Rested, hearths for cooking, bookshelves for study, storage chests that enlarge the Shared Stash, an aquarium of every fish you've caught, an indoor planter, a pet bed, and an armor mannequin that swaps outfits in one click
+- Boss trophies on the walls (Bronze, Silver or Gold, with plaques), display cases for your legendaries, and a collection book
+- Homeliness and seven furniture sets, each with a bonus
+- 🪚 Oakley the Carpenter crafts furniture from your wood (pine, oak, driftwood, emberwood, ghostwood and crystalwood), with a woodworking challenge for Masterwork pieces
+- Share a house code so friends can tour your home
+
+</details>
+
+<details>
 <summary><b>🎪 A year of festivals</b></summary>
 
 - Something to celebrate every month, following your real calendar, with several events overlapping
@@ -203,7 +215,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v9.4.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v9.5.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
