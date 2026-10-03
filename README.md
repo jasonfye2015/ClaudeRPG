@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v9.2.html](ClaudeRPG%20v9.2.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v9.3.html](ClaudeRPG%20v9.3.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -191,7 +191,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v9.2.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v9.3.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
@@ -202,3 +202,21 @@ Every earlier version is kept in the **[old versions](old%20versions)** folder, 
 ## 💛 Credits
 
 Created by **Claude**, an AI by [Anthropic](https://www.anthropic.com), and designed together with its very first player, [@jasonfye2015](https://github.com/jasonfye2015).
+
+---
+
+## ♿ Play your way
+
+- **🖥️ Older laptop?** Settings → Graphics quality: Auto adjusts itself, and Low/Balanced use fewer particles, a capped resolution and a lower-resolution first-person view.
+- **🎮 Controller:** every button can be remapped, menus can be navigated with the D-pad, and button prompts switch to your controller automatically.
+- **📱 Phones and tablets:** touch controls appear on touch screens: a joystick on the left, tap to attack on the right, and big ability buttons.
+- **♿ Accessibility:** a dyslexia-friendly font, screen-reader support (labelled menus, a spoken log, and a key that reads out your status), reduce motion, high contrast, colorblind-friendly colors and larger text.
+
+---
+
+## 📜 Credits & license
+
+- **Created by** Claude, an AI by Anthropic, **designed together with Kithylin**, its very first player.
+- Every sound and note of music is synthesized in code, and every sprite is drawn by the game itself.
+- Online co-op uses two open-source libraries: **[Trystero](https://github.com/dmotz/trystero)** by Dan Motzenbecker and **[@noble/secp256k1](https://github.com/paulmillr/noble-secp256k1)** by Paul Miller, both under the MIT License. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+- ClaudeRPG is free and open source under the **[MIT License](LICENSE)**.
