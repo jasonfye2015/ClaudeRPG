@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v8.5.html](ClaudeRPG%20v8.5.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v8.6.html](ClaudeRPG%20v8.6.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -140,7 +140,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 <summary><b>👪 Family, friends & extras</b></summary>
 
 - Permadeath with family dynasties, family trees, a graveyard with epitaphs, and last wills
-- Online co-op with a friend: the host opens a room and the friend just types its name (no server or account needed), with in-game chat, plus shareable codes for letters, gifts, challenges and ghosts
+- Online co-op with a friend: the host opens a room and the friend just types its name (no server or account needed), and chat with friends anywhere using friend codes (plus an optional public channel), plus shareable codes for letters, gifts, challenges and ghosts
 - A real-time calendar: seasons, holidays, moon phases, day and night, and a weather forecast
 - An autopilot you can watch play (it never earns your achievements)
 - Achievements, a bestiary, a lost journal to collect, and a built-in illustrated handbook (❓ HELP!)
@@ -161,7 +161,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v8.5.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v8.6.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
