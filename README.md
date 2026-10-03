@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v9.7.html](ClaudeRPG%20v9.7.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v9.8.html](ClaudeRPG%20v9.8.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -178,6 +178,16 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 </details>
 
 <details>
+<summary><b>🏆 The ending & the Endless Abyss</b></summary>
+
+- Defeat the guardian of depth 50 (or the Architect himself) for an ending: an epilogue about your own hero and a THE END title card. Then descend into the Abyss, retire as a legend, or keep adventuring
+- The Endless Abyss (opt-in): endless floors past depth 50 that grow ever stronger, with Abyssal Wardens every 10 floors and 15 risky pacts that multiply your score
+- Abyss Shards for permanent perks, cosmetics and Voidtouched gear from Vesper
+- Leaderboards with shareable codes, a Weekly Descent with the same floors for everyone, friends' ghosts where they fell, and a Hall of Legends
+
+</details>
+
+<details>
 <summary><b>📖 Cooking & the Recipe Book</b></summary>
 
 - A collectible Recipe Book with 81 named recipes in eight chapters, clues for undiscovered dishes, recipe cards, and rewards for every chapter
@@ -235,7 +245,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v9.7.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v9.8.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
