@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v9.0.html](ClaudeRPG%20v9.0.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v9.1.html](ClaudeRPG%20v9.1.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -48,6 +48,7 @@ ClaudeRPG is a **top-down action roguelike** with a warm, homey side.
 | <img src="screenshots/town-farm.jpg" alt="The hero at the family farm in Emberhold" width="400"><br>**Emberhold at night:** the family farm and the livestock pen | <img src="screenshots/boss.jpg" alt="A boss fight against Arachna, the Spider Queen" width="400"><br>**Boss fight:** Arachna, the Spider Queen, in the Inferno |
 | <img src="screenshots/classes.jpg" alt="The Choose Your Hero screen" width="400"><br>**Six classes** to choose from (some unlock as you play) | <img src="screenshots/skills.jpg" alt="The four-tier Paladin skill tree" width="400"><br>**Skill trees:** four tiers, three choices each |
 | <img src="screenshots/first-person.jpg" alt="The dungeon seen in first person" width="400"><br>**Three views:** top-down, first person, or retro ASCII | <img src="screenshots/pet-den.jpg" alt="The Pet Den: a Fenrir with its stance, orders, gear and pet bag" width="400"><br>**The Pet Den:** stances, orders, pet gear, treats and a skill tree for every pet |
+| <img src="screenshots/mount-den.jpg" alt="The Mount Den: a unicorn with its gear, horsemanship and the racecourse" width="400"><br>**The Mount Den:** mount gear, training, your horsemanship and the racecourse | |
 
 ---
 
@@ -79,7 +80,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 | Transform (level 10+) | **T** |
 | Drink a potion | **Q** |
 | Talk, open, fish, take the stairs | **E** |
-| Ride your mount | **H** |
+| Ride your mount · gallop · mount ability | **H** · hold **Shift** · **I** |
 | Pet stance · pet ability | **N** · **L** |
 | Skills · Stats · Map · Pause | **K** · **J** · **Tab** · **Esc** |
 
@@ -125,8 +126,20 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 
 - A real-time farm you can expand plot by plot, with crops, fruit trees, watering, compost, crows and weather
 - A livestock pen: cows, pigs and chickens that grow up, breed, and give milk, eggs and truffles
-- Mounts with saddles, feeding bonuses and rare finds; fight on horseback
 - Fishing, cooking, a cookbook, and brewing at the alchemist's cauldron
+
+</details>
+
+<details>
+<summary><b>🐎 Mounts</b></summary>
+
+- Fifteen mounts, each drawn its own way: horses, a warg, a beetle, a camel, a lion, a unicorn, a drake, a griffon, a bear, a giant tortoise and more, plus rare Golden, Silver, Spotted and Midnight coats
+- Every mount has a signature ability (Trample Charge, Shell Up, Flight, Healing Light, Roar...), and you can gallop and trample foes
+- Mounts have health, and big hits can knock you out of the saddle
+- Mounts level up as you ride and learn skills, and Tamsin teaches your own horsemanship
+- Mount gear: saddle, barding, horseshoes and saddlebags (extra backpack slots)
+- Grooming, bond and personalities, stable upgrades, breeding foals, taming wild mounts with a lasso, a supply cart, and a racecourse with friends' ghosts
+- In co-op, ride double on a big mount
 
 </details>
 
@@ -175,7 +188,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v9.0.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v9.1.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
