@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v9.1.html](ClaudeRPG%20v9.1.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v9.2.html](ClaudeRPG%20v9.2.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -127,6 +127,9 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 - A real-time farm you can expand plot by plot, with crops, fruit trees, watering, compost, crows and weather
 - A livestock pen: cows, pigs and chickens that grow up, breed, and give milk, eggs and truffles
 - Fishing, cooking, a cookbook, and brewing at the alchemist's cauldron
+- 🐝 Beekeeping: hives that make honey from the flowers and fruit trees around them, eight kinds of honey, beeswax, royal jelly, and a smoker mini-game
+- 🌳 A bigger orchard: pollination, new trees (coconut, mango, chestnut, olive, Golden Apple), pruning, grafting, and cider in autumn
+- 🕯️ Candles and wax goods at Hazel the Beekeeper's Chandler's Bench, wild hives and swarms in the Wildwood, and the summer Honey Fair
 
 </details>
 
@@ -188,7 +191,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v9.1.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v9.2.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
