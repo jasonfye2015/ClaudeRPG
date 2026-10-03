@@ -6719,6 +6719,8 @@ const HELP = [
       <tr><td>${kb('ultimate')}</td><td>Transformation ultimate (level 10+)</td></tr>
       <tr><td>${kb('interact')}</td><td>Talk, open, fish, pick locks, revive, use stairs</td></tr>
       <tr><td>${kb('mount')}</td><td>Ride or dismount your mount</td></tr>
+      <tr><td>${kb('petstance')}</td><td>Change your pet's stance (Defensive, Aggressive, Assist, Passive, Hold position)</td></tr>
+      <tr><td>${kb('petability')}</td><td>Use your pet's final-form ability (when its ability is set to "On my key")</td></tr>
       <tr><td>${kb('recall')}</td><td>Read a Return Scroll (go home)</td></tr>
       <tr><td>${kb('campfire')}</td><td>Build a campfire (needs 5 🪵 wood)</td></tr>
       <tr><td><kbd>1</kbd>–<kbd>4</kbd></td><td>Spend stat points (Strength, Health, Speed, Magic)</td></tr>
@@ -6876,13 +6878,15 @@ const HELP = [
     ${fig('casino', 'Lady Luck\'s Casino')}
     <div class="htip">🎲 It's all for fun with in-game gold, and the house has an edge in the long run. Know when to walk away!</div>` },
   { id: 'companions', icon: '🐾', t: 'Pets & mounts', body: () => `
-    <p><b>Tamsin the Beastmaster</b> in Emberhold teaches <b>🏇 riding</b> and <b>🐾 pet handling</b>. You need the lessons before you can ride a mount or keep a pet. She also sells pets, mounts, collars and saddles.</p>
+    <p><b>Tamsin the Beastmaster</b> in Emberhold teaches <b>🏇 riding</b> and <b>🐾 pet handling</b>. You need the lessons before you can ride a mount or keep a pet. She also sells pets, mounts, collars, saddles, pet gear and pet supplies.</p>
     <ul><li><b>One of each at a time:</b> you travel with one pet and one mount. When you buy or find a new one, you choose who comes along. Extras live in the <b>🐾 Kennel</b> and the <b>🐴 Stable</b>, two fenced pens just outside the town's south gate. Walk up to one and press ${kb('interact')} to swap who comes along, rename them, or set them free. The pens are shared by your whole family.</li>
-    <li><b>The Companion panel</b> (right side) shows your pet and mount, their accessory slots, and when they last ate.</li>
-    <li><b>📿 Collars</b> boost your pet (damage, attack speed, pet XP, sometimes your crits or regeneration). <b>🏇 Saddles</b> boost your mount while you ride (speed, armor, regeneration, status resistance). They drop from monsters and chests, and Tamsin sells a couple. Click one in your bag to put it on, and click the slot to take it off.</li>
-    <li><b>Feeding:</b> the 🍖 button feeds your pet meat or fish, and the 🥕 button feeds your mount crops or fruit, for <b>a whole day</b> of bonus damage or speed (better quality food, bigger bonus).</li>
+    <li><b>The Companion panel</b> (right side) shows your pet's level, health and stance, your mount and its saddle, and when they last ate. Click the stance icon (or press ${kb('petstance')}) to change it.</li>
+    <li><b>🐾 The Pet Den</b> (the 🐾 button in the Companion panel) is where you look after your pet: stance and orders, its four gear slots, skills, treats, and its final form.</li>
+    <li><b>📿 Collars</b> boost your pet (damage, attack speed, pet XP, sometimes your crits or regeneration), and join 🦺 barding, 🦷 fangs and 🔔 charms in the Pet Den. <b>🏇 Saddles</b> boost your mount while you ride (speed, armor, regeneration, status resistance). They drop from monsters and chests, and Tamsin sells a couple. Click one in your bag to put it on, and click the slot to take it off.</li>
+    <li><b>Feeding:</b> the 🍖 button feeds your pet meat or fish, and the 🥕 button feeds your mount crops or fruit, for <b>a whole day</b> of bonus damage or speed (better quality food, bigger bonus). Feeding also builds your pet's bond and wakes it up if it has fainted.</li>
     <li><b>Riding:</b> press ${kb('mount')}. You fight on horseback exactly as on foot, and nothing can knock you out of the saddle.</li>
-    <li><b>✨ Rare mounts</b> can't be bought: the 🦌 Crystal Stag (Prismara), 🐴 Nightmare (rare boss drop), 🐉 Ember Drake (the Demon Lord and the Architect), 🦄 Unicorn (reach depth 30) and 🦁 Golden Lion (reach level 30).</li></ul>` },
+    <li><b>✨ Rare mounts</b> can't be bought: the 🦌 Crystal Stag (Prismara), 🐴 Nightmare (rare boss drop), 🐉 Ember Drake (the Demon Lord and the Architect), 🦄 Unicorn (reach depth 30) and 🦁 Golden Lion (reach level 30).</li></ul>
+    <p>📖 Everything about pets (health, stances, skills, final forms, gear, treats, eggs and bond) is on the next page: <button data-ht="pets">🐕 Pets in depth</button></p>` },
   { id: 'pets', icon: '🐕', t: 'Pets in depth', body: () => `
     <p>Your pet is a real member of the party. It has <b>health</b>, a <b>personality</b>, <b>gear</b>, a <b>skill tree</b> and a <b>bond</b> with you. Open the <b>🐾 Pet Den</b> with the 🐾 button in the Companion panel.</p>
     <h3>❤️ Health and fainting</h3>
