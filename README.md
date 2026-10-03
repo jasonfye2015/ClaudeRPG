@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v9.5.html](ClaudeRPG%20v9.5.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v9.6.html](ClaudeRPG%20v9.6.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -178,6 +178,17 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 </details>
 
 <details>
+<summary><b>⛏️ Mining & smithing</b></summary>
+
+- Deepdelve Mine on the island: endless levels with no keys that get harder the deeper you go, mine monsters, cave-ins, and a guardian every 10 levels
+- A mining mini-game, six pickaxes, nine ores from copper to starmetal, geodes and raw gems (including the new Onyx and Opal)
+- Bram's Smelter & Forge: smelt eight metals, forge your own weapons, armor and jewelry (each metal adds a trait), and reinforce or mend gear with ingots. Mira cuts raw gems
+- Greta the Prospector sells pickaxes, runs the lift, trades ore and posts daily contracts
+- Forged gear sits alongside the treasure of the depths: use it as much or as little as you like
+
+</details>
+
+<details>
 <summary><b>🏡 Hearth & home</b></summary>
 
 - Your family's house opens in a big window that shows each room. Grow it from a Cottage to a House to a Manor with six rooms, and arrange everything in Decorate mode
@@ -215,7 +226,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v9.5.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v9.6.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
