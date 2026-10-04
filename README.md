@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v12.4.html](ClaudeRPG%20v12.4.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v12.5.html](ClaudeRPG%20v12.5.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -138,6 +138,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 - 🕊️ The Day Market: Sister Celandine's sunlit stall with holy gear (Vows that become Sainted), curse redemption, holy brews, blessings and Renown, plus weekend Market Days on the Festival Green
 - 🏘️ Town Standing: a family reputation (from favors, quests, donations, bosses and daily Odd Jobs) that brings a Cartographer, Jeweler, Tailor, Scribe, Guard Captain and Bard to the Portal Plaza
 - 🐾 Happy Animals: a daily Mood for every pet, mount and pen animal, care (petting, a brushing mini-game, baths after muddy days, favourite foods, fetch, barn chores), and the Saturday Livestock Show with ribbons and Best in Show
+- 🎨 Themes & Polish: six interface themes (Classic, Gilded Tome, Arcane Sanctum, Emberforge, Verdant Grove and the light Parchment), four of them earned, with raised buttons, framed windows, page turns between tabs, glowing item slots, glossy bars with a damage trail, themed notices and mouse cursors
 
 </details>
 
@@ -265,7 +266,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v12.4.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v12.5.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
