@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v12.8.html](ClaudeRPG%20v12.8.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v12.9.html](ClaudeRPG%20v12.9.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -142,6 +142,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 - 🃏 Delve, the card game: a 3×3 grid card game against 18 townsfolk (and a mysterious Stranger), over 120 family-owned cards dropped by monsters or sold in packs, foils, Glimmer crafting, a Card Book with decks and card backs, a weekly tournament, gold or ante stakes, and duels with your co-op partner
 - 💬 Living Emberhold: animated portraits for 35 townsfolk (they breathe, blink, talk, and each has a personal touch), dialogue boxes with typed greetings and talk voices, glowing rarity effects in every menu, light beams over Rare and better loot, and livelier buttons, windows, bars and gold
 - 🌕 Restless Depths: live events on every floor (starting within seconds), ten new floor events (two at once from depth 15), small moments every 30 to 60 seconds, eight kinds of themed room, and ore veins in the dungeon walls now and then
+- 🪜 Clearer stairs: a big 2×2 staircase, gated and padlocked until you find the key; no more yellow markers on the Keys and Scrolls buttons
 
 </details>
 
@@ -269,7 +270,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v12.8.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v12.9.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
