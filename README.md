@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v11.0.html](ClaudeRPG%20v11.0.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v11.1.html](ClaudeRPG%20v11.1.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -124,6 +124,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 - ⚡ Live floor events: about one floor in three, something happens partway through: a stampede, a collapsing floor, a merchant fleeing for his life, the lights going out, a treasure goblin, a thief, a siege, a faction war, an earthquake, a bounty, bandits at the stairs, a goblin party, a meteor shower or a lost expedition. Each of the Five Worlds has its own event, old friends and old grudges come back for you, and your family has a rival who keeps challenging you to duels
 - 🗝️ Floor puzzles (rune sequences, statues, a riddle door, constellations, chime melodies and torn maps) that open secret stairs to seven secret floors, each with a guardian, a hoard and its own relics
 - 🏛️ Mastery and Ascension: max your skill tree to unlock Mastery and Skill Evolutions, then from level 30 retire your hero as a Legend in the Hall of Legends, passing down an heirloom and a Legacy Skill and earning Laurels for gentle family perks (including Ancestor's Grace)
+- 🧭 Paths: at level 25 every hero chooses one of two class specializations (Berserker or Guardian, Sharpshooter or Beastmaster, Pyromancer or Chronomancer, Assassin or Trickster, Crusader or Lightbringer, Bone Lord or Plaguebringer), each with a signature passive, a new skill and its own tree
 
 </details>
 
@@ -251,7 +252,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v11.0.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v11.1.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
