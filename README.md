@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v10.6.html](ClaudeRPG%20v10.6.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v10.7.html](ClaudeRPG%20v10.7.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -121,7 +121,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 - ⛵ Captain Marlow's harbor: buy a rowboat and steer it yourself across the sea to Shell Cay and Palm Atoll, with tide pools, beachcombing, crabs, palms, a lagoon, sea fish and buried treasure
 - 🏴‍☠️ The Open Sea: buy a sloop and sail past the horizon to the Coral Reef Ring (oysters, pearls, coral) and Smuggler's Rock (Captain Redbeard's pirate camp). Fight boarders on your own deck, ride out squalls, and turn your haul into sea gear, brews, recipes and furniture
 - 🐉 The Far Reaches: build a galleon and sail to Ashfall Isle, Keeper Wren's lighthouse and the Sunken Isle (it only rises at low tide), then blow the Abyssal Conch over the Maw and fight Tidemaw the Leviathan from your own deck
-- ⚡ Live floor events: about one floor in three, something happens partway through: a stampede, a collapsing floor, a merchant fleeing for his life, the lights going out, a treasure goblin, a thief, a siege, a faction war, an earthquake, a bounty, bandits at the stairs, a goblin party, a meteor shower or a lost expedition
+- ⚡ Live floor events: about one floor in three, something happens partway through: a stampede, a collapsing floor, a merchant fleeing for his life, the lights going out, a treasure goblin, a thief, a siege, a faction war, an earthquake, a bounty, bandits at the stairs, a goblin party, a meteor shower or a lost expedition. Each of the Five Worlds has its own event, old friends and old grudges come back for you, and your family has a rival who keeps challenging you to duels
 
 </details>
 
@@ -249,7 +249,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v10.6.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v10.7.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
