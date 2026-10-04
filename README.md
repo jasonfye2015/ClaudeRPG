@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v11.2.html](ClaudeRPG%20v11.2.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v11.3.html](ClaudeRPG%20v11.3.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -126,6 +126,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 - 🏛️ Mastery and Ascension: max your skill tree to unlock Mastery and Skill Evolutions, then from level 30 retire your hero as a Legend in the Hall of Legends, passing down an heirloom and a Legacy Skill and earning Laurels for gentle family perks (including Ancestor's Grace)
 - 🧭 Paths: at level 25 every hero chooses one of two class specializations (Berserker or Guardian, Sharpshooter or Beastmaster, Pyromancer or Chronomancer, Assassin or Trickster, Crusader or Lightbringer, Bone Lord or Plaguebringer), each with a signature passive, a new skill and its own tree
 - 🏘️ A New Emberhold: a twice-as-big island with a larger Wildwood, wider beaches and a real dock; the town is rebuilt in districts around a central portal plaza, with four wide gates out to the forest and signposts for fast travel
+- 🪶 Glyphs: unweave gear into its parts (bonuses, sockets, legendary powers) and have Corvin the Glyphwright inscribe them onto other gear; plus Unweave all and Salvage all at the Merchant's Camp
 
 </details>
 
@@ -253,7 +254,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v11.2.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v11.3.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
