@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v10.7.html](ClaudeRPG%20v10.7.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v10.8.html](ClaudeRPG%20v10.8.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -249,7 +249,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v10.7.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v10.8.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
