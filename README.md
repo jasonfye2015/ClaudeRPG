@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v11.7.html](ClaudeRPG%20v11.7.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v11.8.html](ClaudeRPG%20v11.8.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -131,6 +131,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 - 🛤️ Paths & Hearths: footpaths from the town gates, cottages with torches for the townsfolk outside the walls, a cemetery with the Book of the Fallen, a stone circle around the portal, a sandy town square, a bigger wild fishing pond and a scrolling minimap
 - 🃏 Cheat!: a cheat menu on the pause screen for testing and fun (resources, a Cheater's Kit, god mode, noclip, spawning, any depth, live event or secret floor, unlocks and debug tools)
 - ⚔️ The Lost Arms: ten legendary weapon hunts across the five worlds, with the Lost Journal, Volume II (71 pages), weapons that awaken as you fight, and fallen heroes' blades to reclaim from the Cemetery
+- 🤺 Weapon Arts: ten weapon families with proficiency ranks, twenty special Arts on keys 6 and 7, family Manuals, and ten new weapons
 
 </details>
 
@@ -258,7 +259,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v11.7.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v11.8.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
