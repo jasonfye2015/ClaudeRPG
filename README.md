@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v14.3.html](ClaudeRPG%20v14.3.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v14.4.html](ClaudeRPG%20v14.4.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -157,6 +157,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 - 💀 Nemesis & Boss Rush: the monster that kills a hero becomes a named Nemesis that learns from the kill and hunts your family (avenge it for the fallen hero's item, a title and a lasting bonus), plus Kord's Boss Rush
 - 🌿 Hidden Biomes: six rare floor types (Fungal Hollow, Frozen Archive, Coral Labyrinth, Clockwork Foundry, Sky Ruin, Obsidian Caldera), each with hazards, three natives and a guardian guarding a themed hoard
 - ⚔️🔮 Hybrid Classes: at level 40, a Second Calling blends your class with another (fifteen Hybrids), with a signature, a Hybrid skill, a Hybrid tree and borrowed passives
+- 📋 Talent Loadouts: save whole builds (skills, attributes, Path, Hybrid and Mastery) and swap them for free at Mentor Ilsa's yard, with a family library of shared builds
 
 </details>
 
@@ -284,7 +285,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v14.3.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v14.4.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
