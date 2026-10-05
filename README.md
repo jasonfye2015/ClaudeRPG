@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v15.0.html](ClaudeRPG%20v15.0.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v15.1.html](ClaudeRPG%20v15.1.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -164,6 +164,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 - 🍰 Cooking 2.0: the Oven and the Kettle (desserts and drinks as their own courses), flavours with harmony stars, thirty secret recipes, and a monthly Great Emberhold Cook-Off
 - 🏛️ The Emberhold Museum: Curator Quill records every fish, mushroom, gem, ore, relic, fossil and monster specimen your family finds across seven wings, with daily ticket money, milestone gifts and family bonuses for finished wings
 - 🌦️ The Storm Crew: weather jobs from Mayor Hollis (storm repairs, sandbagging the flooding pond, snow shovelling, harbour lamps and a lost fisher in fog, watering in heatwaves) for gold, Town Standing, friendship hearts and weather gear
+- 🏡 Home 2.0: Manor projects for an upstairs (Study, Guest Room, Heir's Room, Balcony) and a basement (Root Cellar, Strongroom), a bigger Trophy Hall with wall-set bonuses, daily house guests (friends, adventurers and ancestral ghosts) and dinner parties
 
 </details>
 
@@ -291,7 +292,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v15.0.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v15.1.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
