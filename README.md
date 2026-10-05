@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v13.2.html](ClaudeRPG%20v13.2.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v13.3.html](ClaudeRPG%20v13.3.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -146,6 +146,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 - 📕 The Heart Below: the main story. A prologue and five chapters shared by the whole family, story floors with echoes of Oren Vael and guardians holding Heart Shards, the Architect as the final fight, and three permanent endings (seal, mend or keep the Heart)
 - 🗺️ The Almanac of Emberhold: about 70 things to do in six groups, ticked off as the family discovers them, with hints, handbook links and discovery notices
 - 📜 Tales of the Turning Year: eight seasonal story arcs, two each real season, four chapters each (island hunts, tale floors, mini-games and guardians), with lasting rewards, a Tale Garden in Emberhold, and a year's wait if you miss one
+- 📖 The Lorekeeper's Book: every piece of lore the family has found (story and tale scenes to rewatch, the worlds, both journals, the bestiary, every townsfolk line heard, and a Family Chronicle of every hero), hidden until discovered, with search and the Lorekeeper and Loremaster titles
 
 </details>
 
@@ -273,7 +274,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v13.2.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v13.3.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
