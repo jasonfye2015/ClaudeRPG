@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v15.4.html](ClaudeRPG%20v15.4.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v15.5.html](ClaudeRPG%20v15.5.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -168,6 +168,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 - 🧭 The Distant Isles: five islands past the Far Reaches (the Isle of Bells, Kitewind, Thornholt, Mirrormere and Lanternmoth), each with its own people, merchant, three-floor dungeon and boss, and a secret that charts the next
 - 🎈 The Skyways: a Balloon Port and griffon or drake flights, a World Map under cloud to scout, fifty one-off landing sites (wood, animals, mushrooms, fruit, caves, ruins, dragon's nests and more), and the map as a travel hub
 - ⛏️ Archaeology: dig sites everywhere with a brush-or-trowel timing game, eight great skeletons to assemble in the museum's Preparation Lab, and sixteen artifacts of the lost Old Kingdom of Aurel
+- 🔭 Constellation Hunting: Astronomer Vela's telescope on the Stargazer's Knoll, 25 constellations to trace (the talent ones raise their talent's cap), starsigns, shooting stars, comets and a Planetarium wing
 
 </details>
 
@@ -295,7 +296,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v15.4.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v15.5.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
