@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v13.9.html](ClaudeRPG%20v13.9.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v14.0.html](ClaudeRPG%20v14.0.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -153,6 +153,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 - ⚗️ Elemental Reactions: fire, frost, storm and venom leave marks and set each other off in eight reactions (Explosion, Arc, Shatter, Steam Burst, Flash Freeze, Toxic Bloom, Overload, Hemotoxin), with oil barrels, Elemental Oils from Nettle, elemental gear and a Reaction Codex
 - ⚔️ Monster Factions: eight factions with sworn enemies that brawl on sight (lure one into another), contested floors and strongholds, and family reputation with monsters and people in a new Factions window
 - ✦ Elite Affixes, Expanded: twelve new elite affixes, gold-named Rare Elites with escorts, Elite Sigils, a Hunter's Log and Huntmaster Roan Ashby's shop and commissions
+- 🌌 The Endless Rift: fast weekly-seeded floors that scale to your hero, sixteen Surges that stack every 10 floors, Rift Lords, a weekly board with shareable codes, and rewards in Abyss Shards and Elite Sigils
 
 </details>
 
@@ -280,7 +281,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v13.9.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v14.0.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
