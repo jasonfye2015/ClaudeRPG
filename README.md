@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v14.5.html](ClaudeRPG%20v14.5.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v14.6.html](ClaudeRPG%20v14.6.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -159,6 +159,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 - ⚔️🔮 Hybrid Classes: at level 40, a Second Calling blends your class with another (fifteen Hybrids), with a signature, a Hybrid skill, a Hybrid tree and borrowed passives
 - 📋 Talent Loadouts: save whole builds (skills, attributes, Path, Hybrid and Mastery) and swap them for free at Mentor Ilsa's yard, with a family library of shared builds
 - 🎭 Traits & Quirks: every hero is born with two boons and a quirk (three free rerolls), conquers quirks through milestones, earns new traits in life, and may inherit one from their parent
+- 📐 Town Expansion Projects: twelve buildings funded with gold and materials, built in real time with scaffolding and workers, each upgradable to Level 3 for stronger town-wide bonuses
 
 </details>
 
@@ -286,7 +287,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v14.5.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v14.6.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
