@@ -22,7 +22,7 @@
 
 ## 🚀 Play in 30 seconds
 
-1. Click **[ClaudeRPG v13.6.html](ClaudeRPG%20v13.6.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
+1. Click **[ClaudeRPG v13.7.html](ClaudeRPG%20v13.7.html)** (the newest version, at the top of the file list), then click the **Download raw file** button (⬇️) near the top right of the file view.
 2. Open the downloaded file in a web browser (Chrome, Edge, Firefox or Safari).
 3. Press any key on the title card, pick **New Game**, choose a hero, and you're in!
 
@@ -150,6 +150,7 @@ Every class has a **four-tier skill tree** (12 skills), an **ultimate transforma
 - 📚 The Lost Library: 43 lore books in 8 series, found on floors, from monsters and bosses and in chests, shelved on a family bookshelf, never duplicated, with rewards tucked inside, three Apocrypha to translate, and series titles
 - 🧑 Heroes for Hire: a daily Adventurers' Board of companions (100 to 1000 gold) who fight with their own AI and abilities, earn a mirror of your XP, level up through their own skill trees, wear gear you give them, and recover in town when knocked out
 - 📸 A refreshed Adventurer's Handbook: 84 in-game pictures (mini-games included), new pages, more detail, and topics sorted into ten groups
+- ⚗️ Elemental Reactions: fire, frost, storm and venom leave marks and set each other off in eight reactions (Explosion, Arc, Shatter, Steam Burst, Flash Freeze, Toxic Bloom, Overload, Hemotoxin), with oil barrels, Elemental Oils from Nettle, elemental gear and a Reaction Codex
 
 </details>
 
@@ -277,7 +278,7 @@ Fishing, lockpicking, trap disarming, gem cutting, the anvil, brewing, treasure 
 
 ## 📜 Versions
 
-The newest version is always the one at the top of this page: **`ClaudeRPG v13.6.html`**.
+The newest version is always the one at the top of this page: **`ClaudeRPG v13.7.html`**.
 
 Every earlier version is kept in the **[old versions](old%20versions)** folder, from `ClaudeRPG v1.0.html` (the very first build) onward, so you can see how the game grew.
 
